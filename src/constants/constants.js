@@ -1,0 +1,6 @@
+const CONSTANTS={
+    SALT:"RANDOMSTRING@12345~$SJDNSJFqsdsf",
+    SECRET_KEY:"SECRETKEY@12345"
+}
+
+module.exports={CONSTANTS}
